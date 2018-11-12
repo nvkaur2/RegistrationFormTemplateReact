@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans");
+@import url("https://fonts.googleapis.com/css?family=Bree+Serif");
+@import url("https://fonts.googleapis.com/css?family=Srisakdi");
+/* font-family: 'Srisakdi', cursive; */
+.h1 {
+  font-family: "Bree Serif", serif;
+}
+.h2 {
+  font-family: "Josefin Sans", cursive;
+}
+.h3 {
+  font-family: "Josefin Sans", cursive;
+  color: red;
+}
+
+.Form {
+  margin: 30px;
+  border-style: groove;
+  border-color: #8b9dc3;
+  border-width: 15px;
+  padding: 0 30px 25px;
+  background-color: #dfe3ee;
+  height: 550px;
+  width: 400px;
+}
